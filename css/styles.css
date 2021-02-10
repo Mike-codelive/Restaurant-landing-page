@@ -294,6 +294,8 @@ a {
       z-index: -1;
       overflow: hidden;
       display: inline-block;
+      object-fit: cover;
+      height: 100%;
     }
     .hero-title {
       font-size: 4.5rem;
