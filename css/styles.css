@@ -119,6 +119,9 @@ a {
 }
 /*************** end of global styles **********************/
 /*************** navbar **********************/
+.navbar {
+  background: var(--mainGrey);
+}
 .nav-icons {
   display: none;
 }
